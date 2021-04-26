@@ -1,0 +1,14 @@
+---
+parsed_sample:
+  - intf: "Vlan100"
+    link_status: "up"
+    protocol_status: "up"
+    ipaddr:
+      - "10.100.34.1"
+    mask:
+      - "24"
+    vrf: "110"
+    mtu: "1500"
+    ip_helper: []
+    outgoing_acl: ""
+    inbound_acl: ""
